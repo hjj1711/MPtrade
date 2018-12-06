@@ -1,0 +1,5 @@
+2018/12/2
+问题1：cannot import name 'finance'
+问题1解决：新版本的matplotlib已经移除finance包，需要单独下载可执行指令：
+pip install https://github.com/matplotlib/mpl_finance/archive/master.zip
+进行下载
